@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Midnight</title>
+    <link>/</link>
+    <description>Recent content on Midnight</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Oct 2020 14:49:24 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infinite Jest: a post/modern WASP odissey</title>
+      <link>/posts/ij/</link>
+      <pubDate>Wed, 28 Oct 2020 14:49:24 +0100</pubDate>
+      
+      <guid>/posts/ij/</guid>
+      <description>This is a paragraph.
+This another paragraph with emphasis and strong emphasis.
+H2 level title H3 level title This is a hyperlink
+I like lists because they are:
+ fun   easy, and   fast.  Lists can also be ordered:
+ First element Second element   with an unordered sublist  And you can add tables:
+   Column 1 Column 2 Column 3     I like tables   This is content    </description>
+    </item>
+    
+    <item>
+      <title>Woman, girl, other</title>
+      <link>/posts/wgo/</link>
+      <pubDate>Wed, 28 Oct 2020 14:49:24 +0100</pubDate>
+      
+      <guid>/posts/wgo/</guid>
+      <description>H1 titolone This is a paragraph.
+This another paragraph with emphasis and strong emphasis.
+H2 level title H3 level title This is a hyperlink
+I like lists because they are:
+ fun   easy, and   fast.  Lists can also be ordered:
+ First element Second element   with an unordered sublist  And you can add tables:
+   Column 1 Column 2 Column 3     I like tables   This is content    </description>
+    </item>
+    
+  </channel>
+</rss>
