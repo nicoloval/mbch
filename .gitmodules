@@ -1,0 +1,3 @@
+[submodule "themes/midnnight"]
+	path = themes/midnnight
+	url = https://github.com/nicoloval/midnnight
