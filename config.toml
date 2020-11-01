@@ -7,3 +7,5 @@ publishDir = "docs"
 [taxonomies]
   tag = "tags"
 
+[Params]
+  instagram = "https://www.instagram.com/"
