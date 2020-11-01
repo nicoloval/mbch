@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infinite Jest on Midnight</title>
-    <link>/tags/infinite-jest/</link>
+    <link>https://nicoloval.github.io/mbch/tags/infinite-jest/</link>
     <description>Recent content in Infinite Jest on Midnight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2020 14:49:24 +0100</lastBuildDate><atom:link href="/tags/infinite-jest/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2020 14:49:24 +0100</lastBuildDate><atom:link href="https://nicoloval.github.io/mbch/tags/infinite-jest/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Infinite Jest: a post/modern WASP odissey</title>
-      <link>/posts/ij/</link>
+      <link>https://nicoloval.github.io/mbch/posts/ij/</link>
       <pubDate>Wed, 28 Oct 2020 14:49:24 +0100</pubDate>
       
-      <guid>/posts/ij/</guid>
+      <guid>https://nicoloval.github.io/mbch/posts/ij/</guid>
       <description>This is a paragraph.
 This another paragraph with emphasis and strong emphasis.
 H2 level title H3 level title This is a hyperlink

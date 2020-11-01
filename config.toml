@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://nicoloval.github.io/mbch/"
 languageCode = "en-us"
 title = "Midnight"
 theme = "midnnight"
