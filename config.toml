@@ -8,4 +8,16 @@ publishDir = "docs"
   tag = "tags"
 
 [Params]
-  instagram = "https://www.instagram.com/"
+  email = "midnight@fake.mail"
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+
+[[menu.main]]
+  name = "Instagram"
+  url = "https://www.instagram.com/"
+
+[[menu.main]]
+  name = "Tags"
+  url = "tags/"
