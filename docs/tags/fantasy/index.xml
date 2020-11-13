@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fantasy on Midnight</title>
+    <link>https://nicoloval.github.io/mbch/tags/fantasy/</link>
+    <description>Recent content in Fantasy on Midnight</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Nov 2020 17:30:45 +0100</lastBuildDate><atom:link href="https://nicoloval.github.io/mbch/tags/fantasy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leopardo Nero Lupo Rosso</title>
+      <link>https://nicoloval.github.io/mbch/posts/lnlr/</link>
+      <pubDate>Sun, 01 Nov 2020 17:30:45 +0100</pubDate>
+      
+      <guid>https://nicoloval.github.io/mbch/posts/lnlr/</guid>
+      <description>Status Letto!
+Pensieri Lord of the rings but everyone is lying, all the time</description>
+    </item>
+    
+  </channel>
+</rss>

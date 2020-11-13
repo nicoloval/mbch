@@ -14,4 +14,6 @@ tags:
     - Romanzo 
 ---
 
-Letto!
+## Status: letto!
+
+## Pensieri

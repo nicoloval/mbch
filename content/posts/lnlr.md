@@ -6,6 +6,12 @@ draft: False
 image: "images/posts/lnlr.jpg"
 
 author: "Nicolo' Vallarano"
+
+tags:
+    - Romanzo
+    - Fantasy
+    - Marlon James
+
 ---
 # Status
 Letto!

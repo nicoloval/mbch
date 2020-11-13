@@ -12,5 +12,9 @@ tags:
     - Romanzo
     - Femminismo
     - Diversita'  
+    - Bernardine Evaristo
 ---
 
+## Stato: letto!
+
+## Pensieri
