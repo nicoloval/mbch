@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Midnight</title>
-    <link>https://nicoloval.github.io/mbch/posts/</link>
-    <description>Recent content in Posts on Midnight</description>
+    <title>Romanzo on Midnight</title>
+    <link>https://nicoloval.github.io/mbch/tags/romanzo/</link>
+    <description>Recent content in Romanzo on Midnight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2020 17:30:45 +0100</lastBuildDate><atom:link href="https://nicoloval.github.io/mbch/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Leopardo Nero Lupo Rosso</title>
-      <link>https://nicoloval.github.io/mbch/posts/lnlr/</link>
-      <pubDate>Sun, 01 Nov 2020 17:30:45 +0100</pubDate>
-      
-      <guid>https://nicoloval.github.io/mbch/posts/lnlr/</guid>
-      <description>Status Letto!
-Pensieri Lord of the rings but everyone is lying, all the time</description>
-    </item>
-    
+    <lastBuildDate>Wed, 28 Oct 2020 14:49:24 +0100</lastBuildDate><atom:link href="https://nicoloval.github.io/mbch/tags/romanzo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Infinite Jest: a post/modern WASP odissey</title>
       <link>https://nicoloval.github.io/mbch/posts/ij/</link>

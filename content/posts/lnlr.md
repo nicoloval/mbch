@@ -1,10 +1,15 @@
 ---
 title: "Leopardo Nero Lupo Rosso"
 date: 2020-11-01T17:30:45+01:00
-object: Book Review
+object: Book
 draft: False 
 image: "images/posts/lnlr.jpg"
----
 
-# Lord of the rings but everyone is lying, all the time 
+author: "Nicolo' Vallarano"
+---
+# Status
+Letto!
+
+## Pensieri
+Lord of the rings but everyone is lying, all the time 
 

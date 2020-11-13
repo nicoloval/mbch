@@ -6,40 +6,11 @@ draft: False
 link: url("#") 
 image: "/images/posts/wgo.jpg"
 
-author: "Nic"
-object: "Book Review"
+author: "Nicolo Vallarano"
+object: "Book"
 tags:
-    - book
-    - feminism
-    - black
+    - Romanzo
+    - Femminismo
+    - Diversita'  
 ---
 
-# H1 titolone 
-
-This is a paragraph.
-
-This another paragraph with *emphasis* and **strong emphasis**.
-
-## H2 level title
-### H3 level title
-
-[This is a hyperlink](http://www.google.com/)
-
-I like lists because they are:
-
-- fun
-+ easy, and
-* fast.
-
-Lists can also be ordered:
-
-1. First element
-2. Second element
-  - with an unordered sublist
-
-And you can add tables:
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| I        | like     | tables   |
-| This     | is       | content  |
