@@ -1,6 +1,6 @@
 baseURL = "https://nicoloval.github.io/mbch/"
 languageCode = "en-us"
-title = "Midnight"
+title = "Nico's Books Collection"
 theme = "midnnight"
 publishDir = "docs"
 
@@ -8,7 +8,7 @@ publishDir = "docs"
   tag = "tags"
 
 [Params]
-  email = "midnight@fake.mail"
+  email = "nico.vallarano at gmail.com"
 
 [[menu.main]]
   name = "About"

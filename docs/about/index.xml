@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on Midnight</title>
+    <title>Abouts on Nico&#39;s Books Collection</title>
     <link>https://nicoloval.github.io/mbch/about/</link>
-    <description>Recent content in Abouts on Midnight</description>
+    <description>Recent content in Abouts on Nico&#39;s Books Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Nov 2020 14:34:40 +0100</lastBuildDate><atom:link href="https://nicoloval.github.io/mbch/about/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Sun, 01 Nov 2020 14:34:40 +0100</pubDate>
       
       <guid>https://nicoloval.github.io/mbch/about/bio/</guid>
-      <description>esempione </description>
+      <description>Hi I&amp;rsquo;m Nicolo&#39;. Just a guy recording all the books he read while learning how to build a website with Hugo.</description>
     </item>
     
   </channel>
