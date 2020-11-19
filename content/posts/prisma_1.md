@@ -7,8 +7,8 @@ author: "Nicolo' Vallarano"
 object: "Book"
 
 tags:
-    - Romanzo
-    - Sally Rooney 
+    - Racconti
+    - Fantascienza
 ---
 
 ## Status: In lettura
