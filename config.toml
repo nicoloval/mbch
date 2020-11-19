@@ -15,6 +15,10 @@ publishDir = "docs"
   url = "/about"
 
 [[menu.main]]
+  name = "Links"
+  url = "/links"
+
+[[menu.main]]
   name = "Instagram"
   url = "https://www.instagram.com/"
 
