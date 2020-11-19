@@ -13,4 +13,5 @@ tags:
 ## Status: Finito
 
 ## Pensieri
-Interessante, alcuni racconti sono davvero interessanti.
+Raccolta di racconti. Il piu' interessante sicuramente e' "Ricordo la luce" di Elisa Emiliani.
+Il concetto stesso di una raccolta di racconti weird contemporanei italiani e' bello.
