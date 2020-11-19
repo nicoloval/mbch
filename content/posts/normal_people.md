@@ -1,7 +1,7 @@
 ---
 title: "Normal_people"
 date: 2020-11-20T00:08:30+01:00
-draft: true
+draft: false 
 
 author: "Nicolo' Vallarano"
 object: "Book"

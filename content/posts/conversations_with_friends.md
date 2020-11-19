@@ -1,7 +1,7 @@
 ---
 title: "Conversations with friends"
 date: 2020-11-20T00:11:43+01:00
-draft: true
+draft: false 
 
 author: "Nicolo' Vallarano"
 object: "Book"
