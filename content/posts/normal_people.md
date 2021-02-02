@@ -1,5 +1,5 @@
 ---
-title: "Normal_people"
+title: "Normal people"
 date: 2020-11-20T00:08:30+01:00
 draft: false 
 
@@ -14,4 +14,5 @@ tags:
 ## Status: Letto 
 
 ## Pensieri
-Carino, un po piu' soap opera e meno interessante del primo.
+Carino, a tratti troppo leggero. A volte sembra un bel romanzo con tratti di libro rosa, a volte sembra un libro rosa che tenta di essere un bel romanzo.
+Forse la differenza neanche conta.

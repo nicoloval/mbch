@@ -6,7 +6,7 @@ draft: False
 link: url("#") 
 image: "/images/posts/ij.jpg"
 
-author: "Nic9lo' Vallarano"
+author: "Nicolo' Vallarano"
 object: "Book"
 
 tags: 
