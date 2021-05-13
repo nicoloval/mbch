@@ -16,4 +16,4 @@ tags:
 
 ## Pensieri
 Due brevi composizioni.
-La prima, una lettera al nipote adolescente, colpisce al cuore l'ipocrisia della societa' americana, con un'onesta' ed una rabbia disarmante e lirica.
+La prima, una lettera al nipote adolescente, colpisce al cuore l'ipocrisia della societa' americana, con un'onesta' ed una rabbia disarmante ed, a tratti, lirica.

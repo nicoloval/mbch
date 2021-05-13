@@ -13,9 +13,9 @@ tags:
     - Marlon James
 
 ---
-# Status
-Letto!
+# Status: Letto
 
 ## Pensieri
-Lord of the rings but everyone is lying, all the time 
+Lord of the rings but everyone is lying, all the time.  
+It is as cool as it sounds.
 

@@ -14,5 +14,4 @@ tags:
 ## Status: Letto 
 
 ## Pensieri
-Carino, a tratti troppo leggero. A volte sembra un bel romanzo con tratti di libro rosa, a volte sembra un libro rosa che tenta di essere un bel romanzo.
-Forse la differenza neanche conta.
+A volte sembra un bel libro con punte di romanzo rosa, a volte sembra un romanzo rosa che tenta di essere un bel libro.

@@ -11,6 +11,6 @@ tags:
     - Fantascienza
 ---
 
-## Status: In lettura
+## Status: Letto 
 
 ## Pensieri

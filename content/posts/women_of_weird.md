@@ -13,5 +13,6 @@ tags:
 ## Status: Finito
 
 ## Pensieri
-Raccolta di racconti. Il piu' interessante sicuramente e' "Ricordo la luce" di Elisa Emiliani.
-Il concetto stesso di una raccolta di racconti weird contemporanei italiani e' bello.
+Raccolta di racconti di genere [new weird](https://it.wikipedia.org/wiki/New_weird) scritti da donne italiane, in italiano.  
+Menzione d'onore a:
+* "Ricordo la luce" di Elisa Emiliani.

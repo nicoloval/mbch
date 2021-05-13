@@ -11,7 +11,7 @@ tags:
     - Ta-Nehisi Coates
 ---
 
-## Status: finito
+## Status: letto
 
 ## Pensieri
 Riprendendo dal filo di Baldwin, Ta-Nehisi Coates presenta l'intimo ritratto del rapporto di un uomo afro-americano con il suo paese, in questa lettera a suo figlio.

@@ -1,6 +1,6 @@
 baseURL = "https://nicoloval.github.io/mbch/"
 languageCode = "en-us"
-title = "Nico's Books Collection"
+title = "Midnight Book Club "
 theme = "midnnight"
 publishDir = "docs"
 
