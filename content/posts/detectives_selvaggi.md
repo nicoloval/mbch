@@ -1,5 +1,5 @@
 ---
-title: "Detectives_selvaggi"
+title: "Detectives selvaggi"
 date: 2021-08-24T12:20:03+02:00
 draft: false
 
