@@ -8,8 +8,5 @@ object: "Book"
 
 tags:
     - Romanzo
+    - italiano
 ---
-
-## Status:
-
-## Pensieri
