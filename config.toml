@@ -20,7 +20,7 @@ publishDir = "docs"
 
 [[menu.main]]
   name = "Instagram"
-  url = "https://www.instagram.com/"
+  url = "https://nicoloval.github.io/mbch/"
 
 [[menu.main]]
   name = "Tags"
