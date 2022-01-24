@@ -6,5 +6,6 @@ draft: false
 author: "Nicolo' Vallarano"
 
 ---
+Cool links from the web:
 
-- []()
+- [Brutalist design](https://brutalist-web.design/)
