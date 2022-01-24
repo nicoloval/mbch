@@ -1,7 +1,7 @@
 ---
 title: "L'opera struggente di un formidabile genio"
 date: 2022-01-24T17:22:06+01:00
-draft: true
+draft: false
 link: url("#")
 image: "/images/posts/struggente_formidabile.gif"
 
