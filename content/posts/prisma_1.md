@@ -10,7 +10,3 @@ tags:
     - Racconti
     - Fantascienza
 ---
-
-## Status: Letto 
-
-## Pensieri

@@ -10,8 +10,4 @@ tags:
     - Romanzo
     - Sally Rooney
 ---
-
-## Status: Letto
-
-## Pensieri
 Straziante.

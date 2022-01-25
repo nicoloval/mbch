@@ -14,7 +14,6 @@ tags:
     - post-moderno
     - Dave Eggers
 ---
-
 Dave Eggers sa scrivere. E lo sa. E ci tiene a farcelo sapere. Cosi come ci tiene a farci sapere un sacco di altre cose, apparentemente (e spesso profondamente) inutili e noiose, ma che ogni tanto come oro nella seccia nascondono davvero qualcosa di interessante, tenero, toccante o sincero. Non che l'autore non sia sincero: a tratti sembra che ci tenga ad esserlo fin troppo, a tratti sembra che la sua sincerita' sia una posa, a tratti(forse troppo spesso) ci tiene a rompere la finzione ed a parlare con i suoi personaggi, i suoi lettori, se stesso a cuore aperto. Che e' poi quello che sembra il fine ultimo di questo libro, aprire se stesso e aprire gli altri, farsi mangiare e mangiare gli altri, per ottenere una storia, un opera che struggente lo e' davvero, ed anche triste, divertente, emozionante, coinvolgente, noiosa.
 
 Eggers ci apre la sua testa, la sua vita e le vite di tutte le persone attorno a lui che appunto divora al fine di, grazie al suo formidabile genio, restituire a noi, sotto forma di romanzato(leggasi digerito) contenuto d'intrattenimento per noi, il lettore.

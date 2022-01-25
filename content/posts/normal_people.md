@@ -10,8 +10,4 @@ tags:
     - Romanzo
     - Sally Rooney
 ---
-
-## Status: Letto 
-
-## Pensieri
 A volte sembra un bel libro con punte di romanzo rosa, a volte sembra un romanzo rosa che tenta di essere un bel libro.

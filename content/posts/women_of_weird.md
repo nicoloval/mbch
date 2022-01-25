@@ -9,10 +9,6 @@ object: "Book"
 tags:
     - Racconti 
 ---
-
-## Status: Finito
-
-## Pensieri
 Raccolta di racconti di genere [new weird](https://it.wikipedia.org/wiki/New_weird) scritti da donne italiane, in italiano.  
 Menzione d'onore a:
 * "Ricordo la luce" di Elisa Emiliani.
