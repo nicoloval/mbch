@@ -7,6 +7,8 @@ images: "images/posts/farfalla"
 author:
 tags:
     - nabokov
+    - romanzo
+    - pedofilia
 ---
 
 lolita è un libro meraviglioso.
