@@ -3,10 +3,10 @@ title: "Lolita"
 date: 2021-12-10T23:33:59+01:00
 draft: false
 object: "Book"
-images: "images/posts/farfalla"
-author:
+image: "images/posts/lolita.jpg"
+author: "Nicolo Vallarano"
 tags:
-    - nabokov
+    - Nabokov
     - romanzo
     - pedofilia
 ---

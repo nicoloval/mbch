@@ -10,6 +10,6 @@ author: "Nicolo' Vallarano"
 object: "Book"
 
 tags: 
-    - D.F.Wallace
+    - Wallace
     - Romanzo 
 ---
