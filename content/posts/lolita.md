@@ -6,7 +6,7 @@ object: "Book"
 image: "images/posts/lolita.jpg"
 author: "Nicolo Vallarano"
 tags:
-    - Nabokov
+    - Vladimir Nabokov
     - romanzo
     - pedofilia
 ---

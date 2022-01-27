@@ -8,8 +8,8 @@ object: "Book"
 
 tags:
     - Saggio
-    - J. Baldwin
-    - segregazione 
+    - James Baldwin
+    - Segregazione 
 ---
 Due brevi composizioni.
 La prima, una lettera al nipote adolescente, colpisce al cuore l'ipocrisia della societa' americana, con un'onesta' ed una rabbia disarmante ed, a tratti, lirica.

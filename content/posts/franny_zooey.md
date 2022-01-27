@@ -6,7 +6,7 @@ object: "Book"
 images: "images/posts/zooey.jpg"
 author:
 tags:
-    - Salinger
+    - J.D.Salinger
     - Romanzo
     - Wallace
 ---
