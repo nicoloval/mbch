@@ -10,7 +10,6 @@ object: "Book"
 
 tags:
     - Romanzo
-    - italiano
     - post-moderno
     - Dave Eggers
 ---
