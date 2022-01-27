@@ -16,7 +16,7 @@ publishDir = "docs"
 
 [[menu.main]]
   name = "Links"
-  url = "links.md"
+  url = "links"
 
 [[menu.main]]
   name = "Instagram"
