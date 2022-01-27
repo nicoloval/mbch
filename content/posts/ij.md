@@ -13,7 +13,3 @@ tags:
     - D.F.Wallace
     - Romanzo 
 ---
-
-## Status: letto!
-
-## Pensieri

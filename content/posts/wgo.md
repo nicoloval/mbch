@@ -14,7 +14,3 @@ tags:
     - Diversita'  
     - Bernardine Evaristo
 ---
-
-## Stato: letto!
-
-## Pensieri
