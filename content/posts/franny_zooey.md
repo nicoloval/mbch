@@ -1,6 +1,6 @@
 ---
-title: "Franny_zooey"
-date: 20221-11-01T23:02:30+01:00
+title: "Franny e Zooey"
+date: 2021-11-01T23:02:30+01:00
 draft: false
 object: "Book"
 images: "images/posts/zooey.jpg"
