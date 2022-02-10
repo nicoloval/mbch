@@ -11,10 +11,6 @@ publishDir = "docs"
   email = "nico.vallarano at gmail.com"
 
 [[menu.main]]
-  name = "About"
-  url = "/about"
-
-[[menu.main]]
   name = "Links"
   url = "links"
 
